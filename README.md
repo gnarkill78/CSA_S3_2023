@@ -206,3 +206,38 @@ official Twitter API documentation for the most accurate and up-to-date informat
 :+1: FLAG{https://api.twitter.com/1.1/users/show.json?screen_name=joebiden}
 <hr>
 
+### Dont call me shurly
+Description - Decode the string to find the flag!
+```
+import base64
+
+def decode_flag(encoded_flag):
+    decoded_flag = base64.b64decode(encoded_flag).decode('utf-8')
+    return decoded_flag
+
+encoded_flag = "Q2FudCBtZSBhIGZsYWc="
+flag = decode_flag(encoded_flag)
+print(flag)
+```
+
+Enter the flag for the challenge in the format FLAG{enter_th_e_flag}
+
+I used chatGPT for this and it returned 'Can me a flag' which ended up wrong.
+
+I then used Bard and it gave me 'Cant me a flag' which was correct
+
+:+1: FLAG{Cant_me_a_flag}
+<hr>
+
+### Encrypted Text
+Description - This message was intercepted. Can you tells me what it says?
+
+Lqsxw IODJ{Vwhood}
+
+Using dcode cipher identier put ROT at top of list
+
+ROT returned Input FLAG{Stella}
+
+:+1: FLAG{Stella}
+<hr>
+
