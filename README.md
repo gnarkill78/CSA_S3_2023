@@ -581,7 +581,7 @@ Search for flag
 
 ### Rockapi
 Description - They told me to Rock your API, so I built an API that rocks 
-[Rockapi](https://github.com/gnarkill78/CSA_S3_2023/blob/main/rockapi.zip)! 
+[Zip File](https://github.com/gnarkill78/CSA_S3_2023/blob/main/rockapi.zip)! 
 What's the admin's password? URL port: 8080 Wrap it in FLAG{}
 
 Solution:
@@ -645,7 +645,7 @@ Password was 'motorola'
 
 ### Secret Invasion
 Description - We're excited about the Secret Invasion. We think we know who the villain really is. Can you work it out!?
-[Invasion](https://github.com/gnarkill78/CSA_S3_2023/blob/main/Invasion.zip)
+[Zip File](https://github.com/gnarkill78/CSA_S3_2023/blob/main/Invasion.zip)
 
 Solution:
 This is a steg one. Loaded it into aperisolve again.
@@ -687,7 +687,7 @@ Cyber Chef is good for that and rotating numbers give 'SneakyOne7'
 ### Times New Roman
 Description - Times New Roman In ancient times, the Romans used to philosophize and hang out at the aqueducts. We now live in 
 the age of the interet and the romans have gotten better at their security! Are you up for the challenge? Let the
-decryption begin in the quest for hidden knowledge! [Cipher](https://github.com/gnarkill78/CSA_S3_2023/blob/main/cipher.zip)
+decryption begin in the quest for hidden knowledge! [Zip File](https://github.com/gnarkill78/CSA_S3_2023/blob/main/cipher.zip)
 
 JAFKQ/1uh6u.@u1/7.@6/q4uy6W
 
@@ -703,7 +703,7 @@ https://www.dcode.fr/keyboard-shift-cipher
 <hr>
 
 ### Truck Truck Truck
-Description - [Truck](https://github.com/gnarkill78/CSA_S3_2023/blob/main/truck.png)
+Description - [Image](https://github.com/gnarkill78/CSA_S3_2023/blob/main/truck.png)
 
 Solution:
 Do a reverse image search
@@ -746,7 +746,7 @@ We need to confirm these details with satellite imagery. What is the name of the
 Flag format: FLAG{Bordercheckpoint}
 
 Solution:
-This was a pain but you can find an [image/map](https://github.com/gnarkill78/CSA_S3_2023/blob/main/Wagner.png) of the routes taken.
+This was a pain but you can find an [Image](https://github.com/gnarkill78/CSA_S3_2023/blob/main/Wagner.png) of the routes taken.
 
 Some painful research leads it to Novoshakhtinsk but it's the alternate spelling - Novosachtinsk
 
@@ -754,14 +754,14 @@ Some painful research leads it to Novoshakhtinsk but it's the alternate spelling
 <hr>
 
 ### Water Works
-Description - We know that Legit Wun will be staying with his brother in July.
+Description - We know that Legit Wun will be staying with his brother in July. [Instagram site](https://www.instagram.com/legit.wun/)
 
 Can you locate the city they will be in?
 
 Flag format: FLAG{City}
 
 Solution:
-I used google to search for the road intersection of 49th St and Jerelyn PL (from the images found on reddit post)
+I used google to search for the road intersection of 49th St and Jerelyn PL (from the images found on Instagram post)
 
 It's in Milwaukee WI, USA
 
@@ -791,7 +791,7 @@ Solution to come.
 ### What's A Pub Key?
 Description - I told my friends I wanted to build an authentication system like the one they use with JWTs but cooler! They 
 said I need a pub key to sign and verify cookies.. Pub key? To which pub?
-[pubkeyauth](https://github.com/gnarkill78/CSA_S3_2023/blob/main/pubauthsrv.zip)
+[Zip File](https://github.com/gnarkill78/CSA_S3_2023/blob/main/pubauthsrv.zip)
 
 Solution:
 This was a pain in the you know what!!
@@ -884,7 +884,7 @@ I tried to open the file but it's got a password so please help me!
 The Flag is in the format of FLAG{<creator_account>_<new_account>}
 
 Solution:
-Bruteforce the [zip file](https://github.com/gnarkill78/CSA_S3_2023/blob/main/machine.zip)
+Bruteforce the [Zip File](https://github.com/gnarkill78/CSA_S3_2023/blob/main/machine.zip)
 
 I used zip2john in kali - zip2john logs.zip > logs.txt
 then
@@ -915,7 +915,7 @@ Find user 'sododgy'
 <hr>
 
 ### World Tour
-Description - On June 21, Legit Wun (https://www.instagram.com/legit.wun/) undertook an international journey.
+Description - On June 21, Legit Wun [Instagram site](https://www.instagram.com/legit.wun/) undertook an international journey.
 
 We need you to track each of the cities they passed through!
 
