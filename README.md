@@ -34,7 +34,8 @@ Now, the function calls itself with n = 6:
     Since 6 is also greater than 1, the else block is executed.
     The function returns 6 + recursive_sum(5).
 
-This process continues until the base case is reached, which is when n becomes 1. At that point, the function returns 1 without making any further recursive calls.
+This process continues until the base case is reached, which is when n becomes 1. At that point, the
+function returns 1 without making any further recursive calls.
 
 So, let's sum up the calls made:
 recursive_sum(7)
