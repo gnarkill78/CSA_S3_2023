@@ -687,8 +687,32 @@ Description - Where does this address originate? 1.0.8.0
 Flag format: FLAG{Text}
 
 Solution:
-Although I did solve this one, I can't remember how I've done it at this stage and hadn't written it down.
-Solution to come.
+I'm not 100% on this one as I didn't take notes at the time so can't fully remember.
+IIRC, I did a whois search which indicated China.
+```
+% Information related to '1.0.8.0 - 1.0.15.255'
+
+% Abuse contact for '1.0.8.0 - 1.0.15.255' is 'email@chinatelecom.cn'
+
+inetnum:        1.0.8.0 - 1.0.15.255
+netname:        CHINANET-GD
+descr:          CHINANET Guangdong province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+admin-c:        CH93-AP
+tech-c:         IC83-AP
+abuse-c:        AC1573-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+notify:         email@189.cn
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-GD
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2021-06-15T08:05:54Z
+source:         APNIC
+```
+:+1: flag{Guangdong}
 <hr>
 
 ### Think it through
