@@ -531,27 +531,33 @@ Indicates it's been saved 2 times - click the date on the calendar
 
 Open the pastebin link
 ```
-Agent Delta, this is a covert transmission for your eyes only. The mission is a go, codename "Operation Midnight Serpent." Target acquisition confirmed at coordinates 39.8712° N, 104.9962° W. 
+Agent Delta, this is a covert transmission for your eyes only. The mission is a go, codename "Operation Midnight Serpent."
+Target acquisition confirmed at coordinates 39.8712° N, 104.9962° W. 
 
 Exercise extreme caution as the target is considered high-profile and surrounded by tight security.
  
-Your primary objective is to infiltrate the facility undetected and retrieve the classified documents from the secure vault in Room 315. 
+Your primary objective is to infiltrate the facility undetected and retrieve the classified documents from the secure vault
+in Room 315. 
 
-Intel suggests that the vault's access code is a sequence of numbers related to the target's birthdate. Use your exceptional lock-picking skills to gain entry.
+Intel suggests that the vault's access code is a sequence of numbers related to the target's birthdate. Use your exceptional
+lock-picking skills to gain entry.
  
 Secondary objective: Extract any information on "Project Pandora" from the mainframe located in the basement. 
 
 This project poses a significant threat to national security, and any data acquired will aid our ongoing investigation.
  
-Remember, time is of the essence. Complete the mission swiftly and discreetly, leaving no trace of your presence. Be aware of potential double agents within the organization. Trust no one.
+Remember, time is of the essence. Complete the mission swiftly and discreetly, leaving no trace of your presence. Be aware
+of potential double agents within the organization. Trust no one.
  
-Once you have successfully obtained the documents and extracted the data, rendezvous with your extraction team at the designated location: The Old Mill by the river, precisely at 2300 hours. 
+Once you have successfully obtained the documents and extracted the data, rendezvous with your extraction team at the
+designated location: The Old Mill by the river, precisely at 2300 hours. 
 
 Prepare for immediate extraction and secure the sensitive materials.
  
 Exercise extreme caution, Agent Delta, as the success of "Operation Midnight Serpent" rests in your capable hands. 
 
-Trust your training, rely on your instincts, and above all, maintain your cover. Good luck, Agent. The fate of our nation depends on your success.
+Trust your training, rely on your instincts, and above all, maintain your cover. Good luck, Agent. The fate of our nation
+depends on your success.
  
 This transmission will self-destruct in 5...4...3...2...1...
 
@@ -574,7 +580,8 @@ Search for flag
 <hr>
 
 ### Rockapi
-Description - They told me to Rock your API, so I built an API that rocks [Rockapi](https://github.com/gnarkill78/CSA_S3_2023/blob/main/rockapi.zip)! 
+Description - They told me to Rock your API, so I built an API that rocks 
+[Rockapi](https://github.com/gnarkill78/CSA_S3_2023/blob/main/rockapi.zip)! 
 What's the admin's password? URL port: 8080 Wrap it in FLAG{}
 
 Solution:
@@ -678,7 +685,8 @@ Cyber Chef is good for that and rotating numbers give 'SneakyOne7'
 <hr>
 
 ### Times New Roman
-Description - Times New Roman In ancient times, the Romans used to philosophize and hang out at the aqueducts. We now live in the age of the interet and the romans have gotten better at their security! Are you up for the challenge? Let the
+Description - Times New Roman In ancient times, the Romans used to philosophize and hang out at the aqueducts. We now live in 
+the age of the interet and the romans have gotten better at their security! Are you up for the challenge? Let the
 decryption begin in the quest for hidden knowledge! [Cipher](https://github.com/gnarkill78/CSA_S3_2023/blob/main/cipher.zip)
 
 JAFKQ/1uh6u.@u1/7.@6/q4uy6W
@@ -730,7 +738,8 @@ And spits out 'Hello world, I am at Trek factory'
 <hr>
 
 ### Wagner
-Description - It's early morning (~1am (GMT+3)), June 23, 2023. We've just received reports of a column of Wagner mercenaries crossing a border checkpoint into Russia.
+Description - It's early morning (~1am (GMT+3)), June 23, 2023. We've just received reports of a column of Wagner mercenaries 
+crossing a border checkpoint into Russia.
 
 We need to confirm these details with satellite imagery. What is the name of the border checkpoint they crossed?
 
@@ -772,8 +781,7 @@ URL port: 5000
 
 Flag format: FLAG{you_have_found_the_flag}
 
-Container URL
-platf-LoadB-R6HHOLSY48L2-dcc802b3713ed02a.elb.ap-southeast-2.amazonaws.com (http://platf-loadb-r6hholsy48l2-dcc802b3713ed02a.elb.ap-southeast-2.amazonaws.com/)
+[Container URL](http://platf-loadb-r6hholsy48l2-dcc802b3713ed02a.elb.ap-southeast-2.amazonaws.com:5000/)
 
 Solution:
 Although I did solve this one, I can't remember how I've done it at this stage and hadn't written it down.
@@ -781,11 +789,9 @@ Solution to come.
 <hr>
 
 ### What's A Pub Key?
-Description - I told my friends I wanted to build an authentication system like the one they use with JWTs but cooler! They said I need a pub key to sign and verify cookies.. Pub key? To which pub?
+Description - I told my friends I wanted to build an authentication system like the one they use with JWTs but cooler! They 
+said I need a pub key to sign and verify cookies.. Pub key? To which pub?
 [pubkeyauth](https://github.com/gnarkill78/CSA_S3_2023/blob/main/pubauthsrv.zip)
-
-website - http://platf-loadb-1dnrzrpf9f9mt-1293434102.ap-southeast-2.elb.amazonaws.com/
-pubkey: "937eRhvE0bqx81t3G9o79LOkkR4CK9Cyhvt8-QJ-s1H2A6uSwukUI0CYUlc3WbmIAa3VTo4Jm9RF5F0Af4DzmQ"
 
 Solution:
 This was a pain in the you know what!!
@@ -869,7 +875,9 @@ Put these into any lat long finder and you get the address '3 Kirkpatrick St, We
 <hr>
 
 ### Who is on my machine?
-Description - I had a call with a call center and they said they installed an anti-virus on my machine, but I've noticed my computer mouse moving when I'm not touching it. I took it into a repair center and they couldn't figure it out but said I should take it to a specialist to find out what's happening.
+Description - I had a call with a call center and they said they installed an anti-virus on my machine, but I've noticed my computer 
+mouse moving when I'm not touching it. I took it into a repair center and they couldn't figure it out but said I should take it to a 
+specialist to find out what's happening.
 
 I tried to open the file but it's got a password so please help me!
 
