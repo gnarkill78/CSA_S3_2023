@@ -1,6 +1,6 @@
 # CSA_S3_2023
 # CTF Writeups
-## Writeups for the way I went about solving the challenges.
+## Writeups for the ADF Cyber Skills Association Season 3 challenges.
 There were 32 challenges in total, 27 of which I was able to solve. The ones left unsolved were:
 - Cipher This (Cryptography)
   - Had no idea how to proceed with this one. The only given clue was LPUKWOKVIRYQ
